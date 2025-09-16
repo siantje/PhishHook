@@ -1,5 +1,5 @@
 # phishhook <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHNob3Ntd216N2hlbXl6YWkxY21yeGhiemJjbThxZXRyd3F5dXEzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xd22iKsu0Wn0Q/200.gif" height="40" style="vertical-align: middle; margin-left: 10px;" />
-​🇷​​🇪​​🇦​​🇱​-​🇹​​🇮​​🇲​​🇪​ ​🇸​​🇴​​🇨​​🇮​​🇦​​🇱​ ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​​🇮​​🇳​​🇬​ ​🇹​​🇷​​🇦​​🇮​​🇳​​🇮​​🇳​​🇬​ ​🇬​​🇦​​🇲​​🇪​  
+real-time social engineering training game
 
 # ˚₊‧꒰ა 𝚠𝚑𝚊𝚝 𝚒𝚜 𝚙𝚑𝚒𝚜𝚑𝚑𝚘𝚘𝚔? ໒꒱ ‧₊˚
 phishhook is a browser-based, interactive cybersecurity training game.​​</br>
