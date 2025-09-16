@@ -26,13 +26,14 @@ built with a modern, lightweight stack:-
 
 # ˚₊‧꒰ა ​𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 ໒꒱ ‧₊˚
 clone this repo and run locally:
-
+</br>
 ``bash
 git clone https://github.com/siantje/PhishHook.git
 cd chatshield
 npm install
 npm run dev
 ``
+</br>
 open http://localhost:5173 in your browser.
 
 # ˚₊‧꒰ა ​𝚛𝚘𝚊𝚍𝚖𝚊𝚙 ໒꒱ ‧₊˚
