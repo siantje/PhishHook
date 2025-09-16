@@ -38,6 +38,7 @@ npm run dev
 open http://localhost:5173 in your browser.
 
 # ˚₊‧꒰ა ​𝚛𝚘𝚊𝚍𝚖𝚊𝚙 ໒꒱ ‧₊˚
+⋆˙⟡ — ai??? (experiment with LLM-driven attackers?) </br>
 ⋆˙⟡ — more attacker personality types (friendly, urgent, ceo fraud) ​​</br>
 ⋆˙⟡ — difficulty modes </br>
 ⋆˙⟡ — reporting / analytics for training teams </br>
